@@ -1,0 +1,4 @@
+model_checkpoint_path: "best.ckpt-130"
+all_model_checkpoint_paths: "../best.ckpt-5"
+all_model_checkpoint_paths: "../best.ckpt-3"
+all_model_checkpoint_paths: "best.ckpt-130"
